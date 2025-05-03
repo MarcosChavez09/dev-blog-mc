@@ -45,8 +45,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/spmse/dev-blog-template',
+          // editUrl:
+          //  'https://github.com/spmse/dev-blog-template',
         },
         blog: blogEnabled ? 
           {
@@ -57,8 +57,8 @@ const config: Config = {
             },
             // Please change this to your repo.
             // Remove this to remove the "edit this page" links.
-            editUrl:
-              'https://github.com/spmse/dev-blog-template',
+            // editUrl:
+            //  'https://github.com/spmse/dev-blog-template',
             // Useful options to enforce blogging best practices
             onInlineTags: 'warn',
             onInlineAuthors: 'warn',
